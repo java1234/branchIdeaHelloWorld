@@ -5,4 +5,8 @@
  * @create 2020-07-29 21:47
  */
 public class Pay {
+
+    public static void main(String[] args) {
+        System.out.println("marry pay");
+    }
 }
